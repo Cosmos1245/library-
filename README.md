@@ -15,17 +15,6 @@ Responsive Design: Optimized for both mobile and desktop devices.
 Installation
 To run this project locally, follow these steps:
 
-Clone the repository:
-
-bash
-Copy code
-git clone []
-Open the project directory:
-
-bash
-Copy code
-cd college-library-management-system
-Open .html in your web browser.
 
 Usage
 Navigate through the book list to find the desired book.
